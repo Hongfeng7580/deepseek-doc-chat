@@ -1,0 +1,7 @@
+openai
+python-docx
+requests
+pycryptodome
+tiktoken
+chardet
+pypdf2
